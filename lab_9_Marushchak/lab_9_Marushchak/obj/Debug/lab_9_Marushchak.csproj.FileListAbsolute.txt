@@ -1,0 +1,6 @@
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\bin\Debug\lab_9_Marushchak.exe
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\bin\Debug\lab_9_Marushchak.pdb
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\obj\Debug\lab_9_Marushchak.csproj.AssemblyReference.cache
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\obj\Debug\lab_9_Marushchak.csproj.CoreCompileInputs.cache
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\obj\Debug\lab_9_Marushchak.exe
+D:\univer\2 kurs\ooap\lab_9_Marushchak\lab_9_Marushchak\lab_9_Marushchak\obj\Debug\lab_9_Marushchak.pdb
